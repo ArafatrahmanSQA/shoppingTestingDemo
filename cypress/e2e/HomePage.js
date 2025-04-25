@@ -1,4 +1,9 @@
 class HomePage {
+
+  /**
+   * Navigates to the Nike Japan homepage.
+   */
+
   visit() {
     cy.visit('https://www.nike.com/jp/en/');
   }

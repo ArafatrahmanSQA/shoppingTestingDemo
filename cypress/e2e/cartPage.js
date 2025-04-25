@@ -1,4 +1,11 @@
 class CartPage {
+
+   /**
+   * Verifies whether a product with a given keyword is present in the cart.
+   * If the product is present, it asserts the product title.
+   * If no product is found, it checks for the empty cart message.
+   */
+
   verifyProductInCart(keyword) {
     cy.get('body').then(($body) => {
       if ($body.find('div[data-qa="cart-product-title"]').length > 0) {
