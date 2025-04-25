@@ -43,3 +43,4 @@ CypressProjectForShoppingTest/
 ├── package.json
 └── README.md
 
+![Screenshot 2025-04-25 204406](https://github.com/user-attachments/assets/cab92bc0-c11a-4cfd-9a53-c7e7c29f8d7a)
