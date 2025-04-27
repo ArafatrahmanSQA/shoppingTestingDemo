@@ -18,6 +18,8 @@ This project automates the shopping workflow on [Nike Japan](https://www.nike.co
 ## 🧰 Tech Stack
 
 - [Cypress](https://www.cypress.io/)
+- Node.js – JavaScript Runtime Environment
+- npm – Node Package Manager
 - JavaScript
 - Page Object Model (POM) design pattern
 - Git & GitHub
